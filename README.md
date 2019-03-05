@@ -1,7 +1,9 @@
-# Date-Recognizer
+# Date-Recognizer 
+
+Extract all date format data from a file.
 
 
-Functions of each regular expression matching:
+# Functions of each regular expression matching:
 
 
 Normal: match format month/day/year
